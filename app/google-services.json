@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181055233512",
+    "firebase_url": "https://btchat-5782b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "btchat-5782b",
+    "storage_bucket": "btchat-5782b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181055233512:android:7b858d78e74691d34f585d",
+        "android_client_info": {
+          "package_name": "com.example.fbchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181055233512-ov6oojb85k3dpj9cfgorjc7e31ph472s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ2TLEGTP2mwOuC1jp25lCVlfMJR1tE-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181055233512-ov6oojb85k3dpj9cfgorjc7e31ph472s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
